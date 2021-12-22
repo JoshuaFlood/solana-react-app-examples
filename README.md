@@ -198,7 +198,7 @@ If you've found this repository helpful and would like to make an gesture of tha
 | Network      | Address |
 | ----------- | ----------- |
 | Solana      | 8YjCdeFK8efpnM7dXJiPHys48mip8CKhnMu7KTRHWdrB       |
-| Ethereum/Polygon/BSC/Phantom   | 0xBb3b2DB2eE2FbA379B25084573f935A74B5C37da        |
+| Ethereum/Polygon/BSC/Fantom   | 0xBb3b2DB2eE2FbA379B25084573f935A74B5C37da        |
 | Monero   | 46ySXAZgDRDRccBGimwn75g3sRogHuLAx6eELFB9FpkmAh5BR67Y1J7g9Y8tGPxuBMDQkDPXWbExDMWo6RNk2dhfAiYZXKV        |
 
 
